@@ -10,7 +10,7 @@
 
 
 
-## How To Install App
+## Install App
   1. Download zip file
   2. Open terminal and navigate into folder
   3. Run commands:
