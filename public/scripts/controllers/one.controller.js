@@ -7,4 +7,5 @@ self.testMessage = 'This is the view-1 test message';
 
 
 
+
 }]);//end of myApp.controller
