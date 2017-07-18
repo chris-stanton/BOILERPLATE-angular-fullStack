@@ -1,3 +1,15 @@
+
+# Full Stack Boilerplate with Angular Front-End
+
+---
+
+## Description:
+###### Full stack boilerplate that uses Angular.js front-end and Postgres SQL back-end. Framework contains multiple HTML views with controllers and a factory for server-side communication over HTTP.  Server-side is setup using Express.js and Postgres SQL for a database.
+
+<img src="./public/assets/images/screenshots/screenshot.png" width="50%">
+
+---
+
 ## Technologies Used
   1. Express.js - version ``` v4.15.2 ```
   2. Angular.js - version ``` v1.6.3 ```
@@ -8,7 +20,7 @@
   7. GIT / GitHub
   8. Bootstrap - version ``` v3.3.7 ```
 
-
+---
 
 ## Install App
   1. Download zip file
