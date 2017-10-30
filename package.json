@@ -2,13 +2,13 @@
   "name": "angular-template",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
-    "angular": "^1.6.3",
-    "angular-route": "^1.6.3",
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
-    "pg": "^6.1.4"
+    "angular": "1.6.3",
+    "angular-route": "1.6.3",
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "pg": "6.1.4"
   },
   "devDependencies": {},
   "scripts": {

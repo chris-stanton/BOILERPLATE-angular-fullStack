@@ -5,9 +5,9 @@ myApp.config(['$routeProvider', function($routeProvider) {
   //routes
     $routeProvider
         .when ('/home', {
-          templateUrl: '/views/home-view.html',
-          controller: 'HomeController',
-          controllerAs: 'home'
+          templateUrl: '/views/main-view.html',
+          controller: 'MainController',
+          controllerAs: 'mc'
         })
         .when ('/view-1', {
             templateUrl: '/views/view_1.html',
